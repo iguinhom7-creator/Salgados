@@ -1,0 +1,6 @@
+{
+  "name": "Salgados da Geni | Encomendas em Vespasiano",
+  "description": "Salgados fresquinhos, coxinhas, kibes e enroladinhos feitos com carinho em Vespasiano - MG. Faça seu pedido!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
